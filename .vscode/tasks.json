@@ -7,7 +7,7 @@
             "args": [
                 "-fdiagnostics-color=always",
                 "-g",
-                "${file}",
+                "$task1.cpp", "both.cpp", "functionstask1.cpp", "input.cpp", 
                 "-o",
                 "${fileDirname}/${fileBasenameNoExtension}"
             ],

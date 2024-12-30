@@ -1,5 +1,5 @@
 #include <iostream>
-#include <string>
+#include <string.h>
 
 int vvodbin();
 int vvodunsignedint(int m);
